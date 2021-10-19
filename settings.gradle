@@ -1,0 +1,2 @@
+rootProject.name = "Weplay Instant Play"
+include ':example'
